@@ -1,0 +1,13 @@
+# Target labels
+ gtest
+# Source files and their labels
+/nfs/zfs-student-3/users/2014/achazal/assimp/test/CMakeFiles/gtest
+/nfs/zfs-student-3/users/2014/achazal/assimp/test/CMakeFiles/gtest.rule
+/nfs/zfs-student-3/users/2014/achazal/assimp/test/CMakeFiles/gtest-complete.rule
+/nfs/zfs-student-3/users/2014/achazal/assimp/test/gtest/src/gtest-stamp/gtest-install.rule
+/nfs/zfs-student-3/users/2014/achazal/assimp/test/gtest/src/gtest-stamp/gtest-mkdir.rule
+/nfs/zfs-student-3/users/2014/achazal/assimp/test/gtest/src/gtest-stamp/gtest-download.rule
+/nfs/zfs-student-3/users/2014/achazal/assimp/test/gtest/src/gtest-stamp/gtest-update.rule
+/nfs/zfs-student-3/users/2014/achazal/assimp/test/gtest/src/gtest-stamp/gtest-patch.rule
+/nfs/zfs-student-3/users/2014/achazal/assimp/test/gtest/src/gtest-stamp/gtest-configure.rule
+/nfs/zfs-student-3/users/2014/achazal/assimp/test/gtest/src/gtest-stamp/gtest-build.rule

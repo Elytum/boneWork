@@ -1,0 +1,5 @@
+/nfs/zfs-student-3/users/2014/achazal/assimp/test/CMakeFiles/unit.dir
+/nfs/zfs-student-3/users/2014/achazal/assimp/tools/assimp_cmd/CMakeFiles/assimp_cmd.dir
+/nfs/zfs-student-3/users/2014/achazal/assimp/test/CMakeFiles/gtest.dir
+/nfs/zfs-student-3/users/2014/achazal/assimp/code/CMakeFiles/assimp.dir
+/nfs/zfs-student-3/users/2014/achazal/assimp/CMakeFiles/uninstall.dir

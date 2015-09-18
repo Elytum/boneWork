@@ -1,0 +1,1 @@
+cmd='/Volumes/Data/nfs/zfs-student-3/users/2014/achazal/.brew/Cellar/cmake/3.3.1/bin/cmake;-DCMAKE_BUILD_TYPE=;-Dgtest_force_shared_crt=ON;-Dgtest_disable_pthreads:BOOL=OFF;-GUnix Makefiles;/nfs/zfs-student-3/users/2014/achazal/assimp/test/gtest/src/gtest'

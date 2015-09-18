@@ -1,0 +1,2 @@
+/nfs/zfs-student-3/users/2014/achazal/assimp/test/gtest/src/gtest-build/CMakeFiles/gtest_main.dir
+/nfs/zfs-student-3/users/2014/achazal/assimp/test/gtest/src/gtest-build/CMakeFiles/gtest.dir
